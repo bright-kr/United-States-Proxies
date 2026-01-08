@@ -1,6 +1,6 @@
 # Bright Data의 미국 プロキシ
 
-[![Promo](https://github.com/luminati-io/Rotating-Residential-Proxies/blob/main/50%25%20off%20promo.png)](https://brightdata.co.kr/locations/united-states) 
+[![Promo](https://github.com/bright-kr/Rotating-Residential-Proxies/blob/main/50%25%20off%20promo.png)](https://brightdata.co.kr/locations/united-states) 
 
 ## 개요
 정밀한 타겟팅, 타의 추종을 불허하는 안정성, 빠른 응답 시간을 제공하도록 설계된 Bright Data의 [미국 プロキシ](https://brightdata.co.kr/locations/united-states)로 원활한 スクレイピング을 경험해 보시기 바랍니다. 미국에서 웹사이트를 スクレイピング하기 시작하고 다시는 차단되지 않도록 하십시오.
@@ -53,7 +53,7 @@
 - [**Hawaii プロキシ**](https://brightdata.co.kr/locations/united-states/hawaii)
 - [**Los Angeles プロキシ**](https://brightdata.co.kr/locations/united-states/california/los-angeles)
 
-[![Promo](https://github.com/luminati-io/LinkedIn-Scraper/blob/main/Proxies%20and%20scrapers%20GitHub%20bonus%20banner.png)](https://brightdata.co.kr/locations/united-states) 
+[![Promo](https://github.com/bright-kr/LinkedIn-Scraper/blob/main/Proxies%20and%20scrapers%20GitHub%20bonus%20banner.png)](https://brightdata.co.kr/locations/united-states) 
 
 ## Bright Data의 미국 プロキシ 시작하기
 1. **무료 체험 시작**: 신용카드가 필요하지 않습니다.
